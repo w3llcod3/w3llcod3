@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wael
-- 👀 I’m interested in Vue.js, vuetify, node.js, JS, CSS
+- I’m interested in Vue.js, vuetify, Node.js, Express.js MonogoDB
 
 
 - 📫 How to reach me: Email me: w3llcod3@gmail.com
