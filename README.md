@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wael
-- I’m interested in Vue.js, vuetify, Node.js, Express.js MonogoDB
+- I’m a senior web developer working with many web technologies
 
 
 - 📫 How to reach me: Email me: wael.ghazie@gmail.com
